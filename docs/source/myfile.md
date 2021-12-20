@@ -186,3 +186,15 @@ With a reference to the website: [vada.bioinfo.perdanauniversity.edu.my](https:/
 # Support
 In case of any further queries, please email *bioinfo@perdanauniversity.edu.my*
 
+## Team
+
+- Muhammad Farhan Sjaugi
+- Kresnodityo Jatiputro Widianto
+- Eyyub Selim Ünlü 
+- Muhammed Miran Öncel 
+- Shanweera Tharanga
+- Rashid Mukaila 
+- Muhammet A. Celik 
+- Tcharné Adnaane Bawa 
+- Ayesha Fatima 
+- Mohammad Asif Khan
